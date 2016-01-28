@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright Arne Hårseth
+${licensePrefix}Lisensiert under  GPL *
+<#if licenseLast??>
+${licenseLast}
+</#if>
