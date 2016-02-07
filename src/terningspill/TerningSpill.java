@@ -20,7 +20,7 @@ package terningspill;
 
 /**
  *
- * @author arne
+ * @author Arne Hårseth
  */
 public class TerningSpill {
     /**
