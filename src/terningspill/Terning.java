@@ -20,7 +20,7 @@ import java.util.Random;
 
 /**
  *
- * @author arne
+ * @author Arne Hårseth
  */
 public class Terning {
     int verdi; // Terningverdien
